@@ -1,0 +1,10 @@
+.left-image{
+    background-image: url("../images/7d744a684fe03ebc7e8de545f97739dd.jpg");
+    height: 600px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    border-radius: 3px;
+}
